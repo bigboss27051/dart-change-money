@@ -1,6 +1,7 @@
 import 'dart:io';
 
 void main() {
+  //input data
   print("Enter total price");
   String totalInput = stdin.readLineSync();
 
